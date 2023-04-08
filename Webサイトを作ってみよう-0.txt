@@ -1,0 +1,7 @@
+学習の目標
+学習にあたっての心構え
+推奨ブラウザ(GoogleChrome)について
+GoogleChromeのインストール
+Google Chromeを起動してみよう
+推奨テキストエディタ(Visual Studio Code)について
+VSCode(Visual Studio Code)のインストール
